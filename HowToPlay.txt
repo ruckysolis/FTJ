@@ -8,9 +8,9 @@
 
 5. The player then follows the instructions printed on that square. If the square requires drawing a card, the player draws from the deck corresponding to the depth he or she has reached in the dungeon. The wilderness area around the town corresponds to the top deck (with roots drawn on the back), and the deepest dungeon corresponds to the bottom deck (with glowing orange runes).
 
-5. If the player draws a monster card, the monster can be defeated by rolling a die greater than or equal to the die shown on the card. If it is defeated, the player collects the number of silver coins shown on the card, and places the card in the victory pile (shown with a skull on the player's inventory area). Otherwise, the player loses one hit point, and the monster is placed at the bottom of the deck from which it was drawn. If the player dies, all gold in the player's inventory is lost, and the player returns to the town to heal.
+6. If the player draws a monster card, the monster can be defeated by rolling a die greater than or equal to the die shown on the card. If it is defeated, the player collects the number of silver coins shown on the card, and places the card in the victory pile (shown with a skull on the player's inventory area). Otherwise, the player loses one hit point, and the monster is placed at the bottom of the deck from which it was drawn. If the player dies, all gold in the player's inventory is lost, and the player returns to the town to heal.
 
-6. Repeat for every player, until all monsters are defeated. At that point, the players look through their victory piles to total up their victory points (the values shown in the skulls of their defeated enemies). Whoever has the most is the winner!
+7. Repeat for every player, until all monsters are defeated. At that point, the players look through their victory piles to total up their victory points (the values shown in the skulls of their defeated enemies). Whoever has the most is the winner!
 
 Additional rules:
 
